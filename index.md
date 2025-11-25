@@ -1,10 +1,16 @@
-## 这是一个写给sky光遇的文档。
+---
+layout: default
+title: Home
+---
 
-你可以[访问光遇官方网站](http://sky.163.com/)了解更多信息。
+# Welcome to hrmoro's Site
 
-光遇真的是一个很不错的游戏，目前国服貌似只有app store有，安卓机的话需要下载国际服，国服的目前可以预约，可以等今年12月份上线体验。
+This is my personal GitHub Pages site.
 
-### Sky光遇
-2012年度最佳游戏《风之旅人》制作人陈星汉历时七年新作
+## About
 
+Hello! This site is hosted on GitHub Pages.
 
+## Contact
+
+- GitHub: [hrmoro](https://github.com/hrmoro)
