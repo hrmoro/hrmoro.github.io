@@ -3,7 +3,17 @@ layout: default
 title: Home
 ---
 
-## 这是一个写给sky光遇的文档。
+# hrmoro's Blog
+
+## 文章列表
+
+{% for post in site.posts %}
+- {{ post.date | date: "%Y-%m-%d" }} [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+---
+
+## 关于Sky光遇
 
 你可以[访问光遇官方网站](http://sky.163.com/)了解更多信息。
 
